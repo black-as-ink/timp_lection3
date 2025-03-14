@@ -2,3 +2,6 @@ Hello IUK6-23!
 Second new line
 Third line from master
 Third line
+
+
+Before reset
